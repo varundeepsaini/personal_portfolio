@@ -29,15 +29,7 @@ const About = () => {
             </div>
             <div className="column right">
                 <div className="text">I'm Varun and I'm a <span className="typing-2 crazy"></span></div>
-                <p> I am an undergraduate at Indian Institute of Information Technology. In my short experience with
-                    software industry, I've
-                    developed Analytical thinking and collaboration skills. Being a quick and logical learner, I am
-                    able to grasp anything from scratch.
-
-                    I have led different clubs and teams successfully, also have been fortunate enough to guide
-                    bright minds of IIIT Allahadbad in Data structures and algorithms. I am
-                    interested in pushing the boundaries of technology with innovation in the fields of Software
-                    Development, Cloud Computing and Machine Learning.
+                <p> I am a computer science enthusiast with dual degrees in progress from Scaler School of Technology and Birla Institute of Technology and Science. Renowned for my achievements in competitive programming, I hold top ranks in Codeforces, AtCoder, and ICPC. I've created several projects using technologies like Go, Python, and Kotlin, ranging from microservices to data analytics and image processing tools. As president of the competitive programming club at Scaler, I lead and mentor peers, driving innovation and excellence. Explore my portfolio to see the passion and expertise I bring to technology.
                     🚀🚀</p>
                 <a href="https://drive.google.com/file/d/1WBBHgou-77qnr60rG6yL264GWVR1_h33/view">Download
                     CV</a>

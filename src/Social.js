@@ -7,8 +7,8 @@ const Social = () => {
       <div className="max-width">
         <h2 className="title">My social handles</h2>
         <div className="serv-content">
-            <div className="card">
-                <a href="https://www.facebook.com/utkarsh.garg2001" style={{ color: 'white' }}>
+            {/* <div className="card">
+                <a href="https://www.codeforces.com/sojabhai" style={{ color: 'white' }}>
                     <div className="    box">
                         <i className="fab fa-facebook"></i>
                         <div className="text">Facebook</div>
@@ -17,7 +17,7 @@ const Social = () => {
                         </div>
                     </div>
                 </a>
-            </div>
+            </div> */}
             <div className="card">
                 <a href="https://www.linkedin.com/in/varundeepsaini/" style={{ color: 'white' }}>
                     <div className="box">
