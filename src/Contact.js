@@ -21,7 +21,7 @@ const Contact = () => {
                         <i className="fas fa-map-marker-alt"></i>
                         <div className="info">
                             <div className="head">Address</div>
-                            <div className="sub-title">Greater Noida, India</div>
+                            <div className="sub-title">Bangalore, Karnataka</div>
                         </div>
                     </div>
                     <div className="row">
